@@ -1,4 +1,26 @@
-## Hi there 👋
+## Who?
+I'm **Suryansh Arya**, an aspiring Security Researcher with an interest in Low Level development.
+
+## Where?
+- I'm from India
+- [LinkedIn](https://www.linkedin.com/in/suryyyansh)
+
+## What?
+- Reverse Engineering
+- Low Level programming
+- Web Security (OWASP Top 10)
+- Web Development
+
+## How?
+- Python
+- JavaScript
+- Bash
+- Git
+- C
+- ASM (mostly `x86`)
+- Ghidra
+- Radare2
+- BurpSuite
 
 <!--
 **suryyyansh/suryyyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
