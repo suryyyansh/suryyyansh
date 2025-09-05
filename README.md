@@ -4,6 +4,8 @@ I'm **Suryansh Arya**, an aspiring Security Researcher with an interest in Low L
 ## Where?
 - I'm from India
 - [LinkedIn](https://www.linkedin.com/in/suryyyansh)
+- [HackTheBox](https://app.hackthebox.com/profile/395627)
+- [Medium](https://medium.com/@suryyyansh)
 
 ## What?
 - Reverse Engineering
